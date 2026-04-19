@@ -1,0 +1,10 @@
+
+/android/
+.godot/
+.import/
+*.import
+*.uid
+godot.pipe
+.DS_Store
+Thumbs.db
+*.log
